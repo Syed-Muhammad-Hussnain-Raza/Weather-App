@@ -25,7 +25,10 @@ To run this project locally, follow these steps:
    ```bash
    npm install
    ```
-4. Start the development server:
+
+## Usage
+
+1. Start the development server:
 
    ```bash
    npm start
@@ -33,13 +36,9 @@ To run this project locally, follow these steps:
 
    Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-   The page will reload when you make changes. You may also see any lint errors in the console.
-
-## Usage
-
-1. Enter the city name in the input box.
-2. Click on the search button to fetch the weather details.
-3. The app will display the temperature in Celsius, wind speed, humidity, and the times for sunrise and sunset.
+2. Enter the city name in the input box.
+3. Click on the search button to fetch the weather details.
+4. The app will display the temperature in Celsius, wind speed, humidity, and the times for sunrise and sunset.
 
 ## Technologies Used
 
@@ -50,7 +49,7 @@ To run this project locally, follow these steps:
 
 ## Author
 
-**Syed Muhammad Hussnain Raza**
+**[Syed Muhammad Hussnain Raza](https://www.linkedin.com/in/syed-muhammad-hussnain-raza)**
 
 ## License
 
